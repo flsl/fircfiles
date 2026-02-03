@@ -1,0 +1,1 @@
+modelsim-10.6-win64-se安装软件+安装说明：https://mbd.pub/o/bread/mbd-YZWXk5xuZg==

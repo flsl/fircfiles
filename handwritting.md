@@ -1,0 +1,1 @@
+基于PaddleOCR+pyqt5实现一个简单的手写汉字识别系统源码：https://mbd.pub/o/bread/YZWTmJlpZg==
