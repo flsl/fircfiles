@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>HALCON26.05的DLL文件目录替换对应DLL替换安装目录即用</td><td><a href="https://mbd.pub/o/bread/YZaUmp9tag==">下载</a></td></tr>
 <tr><td>HALCON25.11的DLL文件目录替换对应DLL替换安装目录即用.7z</td><td><a href="https://mbd.pub/o/bread/YZWblppsaA==">下载</a></td></tr>
 <tr><td>HALCON24.11的DLL文件目录替换对应DLL替换安装目录即用.7z</td><td><a href="https://mbd.pub/o/bread/mbd-YZWZl5trZw==">下载</a></td></tr>
 <tr><td>HALCON24.05的DLL文件目录替换对应DLL替换安装目录即用.7z</td><td><a href="https://mbd.pub/o/bread/YZWblppsZw==">下载</a></td></tr>
